@@ -27,4 +27,3 @@ The app focuses on managing notes in a simple way where users can quickly add ne
 https://hemaeditor1.github.io/Note-app-react/
 
 
-(Add a screenshot of the app here)
